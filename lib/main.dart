@@ -25,9 +25,9 @@ class _WebViewExampleState extends State<WebViewExample> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'COVID-19 KAGOSHIMA',
+          '鹿児島県新型コロナウイルスまとめ',
           style: TextStyle(
-            fontSize: 20,
+            fontSize: 13,
             fontWeight: FontWeight.bold,
           ),
         ),
